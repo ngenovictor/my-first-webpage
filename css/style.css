@@ -1,3 +1,15 @@
+body{
+  text-align:center;
+  font-style: italic;
+
+}
 h1{
   color: red;
 }
+p{
+  font-weight: 400;
+  font-family:sans-serif;
+  line-height: 1.2;
+}
+
+/*color, text-align, font-style, font-weight, font-family, font-size, and line-height*/
